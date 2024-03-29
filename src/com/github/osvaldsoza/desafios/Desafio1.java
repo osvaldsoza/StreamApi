@@ -1,9 +1,11 @@
-package com.github.osvaldsoza;
+package com.github.osvaldsoza.desafios;
 
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
 
+//    Desafio 2 - Imprima a soma dos números pares da lista:
+//    Utilizando a Stream API, realize a soma dos números pares da lista e exiba o resultado no console.
 public class Desafio1 {
 
     public static void main(String[] args) {
